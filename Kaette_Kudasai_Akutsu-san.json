@@ -6,11 +6,59 @@
   "cover": "https://mangadex.org/covers/737a846b-2e67-4d63-9f7e-f54b3beebac4/eca1a97a-e53c-4323-b3e7-ce8ccec17451.jpg",
   "chapters": {
     "138": {
-      "title": "138",
+      "title": "",
       "volume": "7",
       "last_updated": "1747371105",
       "groups": {
         "Sho Habby Scans": "/proxy/api/imgchest/chapter/9p4nwdqbw4n"
+      }
+    },
+    "139": {
+      "title": "",
+      "volume": "7",
+      "last_updated": "1747376963",
+      "groups": {
+        "Sho Habby Scans": "proxy/api/imgchest/chapter/bp45pbexqy5"
+      }
+    },
+    "140": {
+      "title": "",
+      "volume": "7",
+      "last_updated": "1747377025",
+      "groups": {
+        "Sho Habby Scans": "proxy/api/imgchest/chapter/9249wb5zmyn"
+      }
+    },
+    "141": {
+      "title": "",
+      "volume": "7",
+      "last_updated": "1747377082",
+      "groups": {
+        "Sho Habby Scans": "proxy/api/imgchest/chapter/dl7pemwjpyo"
+      }
+    },
+    "141.1": {
+      "title": "Extra 1",
+      "volume": "7",
+      "last_updated": "1747377146",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/xny8vk8z57b"
+      }
+    },
+    "141.2": {
+      "title": "Extra 2",
+      "volume": "7",
+      "last_updated": "1747377213",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/qb4zevq3d4j"
+      }
+    },
+    "141.3": {
+      "title": "Afterword",
+      "volume": "7",
+      "last_updated": "1747377635",
+      "groups": {
+        "Sho Habby Scans": "proxy/api/imgchest/chapter/m9yxralvqyq"
       }
     }
   }
