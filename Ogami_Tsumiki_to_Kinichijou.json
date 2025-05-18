@@ -4,5 +4,14 @@
   "artist": "Morishita Miyu",
   "author": "Morishita Miyu",
   "cover": "https://raw.githubusercontent.com/ShoHabbyUploads/ShoHabbyCubariSources/refs/heads/main/Covers/Ogami_Tsumiki_to_Kinichijou.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Tsumiki-san Is a Werewolf",
+      "volume": "1",
+      "last_updated": "1747579598",
+      "groups": {
+        "Emergency Tsumiki Comittee, Church of Potteto, Sho Habby Scans": "/proxy/api/imgchest/chapter/wl7lgbw56yx"
+      }
+    }
+  }
 }
