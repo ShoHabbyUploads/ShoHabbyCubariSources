@@ -4,5 +4,14 @@
   "artist": "Kobachi Ruka",
   "author": "Kobachi Ruka",
   "cover": "https://raw.githubusercontent.com/ShoHabbyUploads/ShoHabbyCubariSources/refs/heads/main/Covers/Hana_ni_Arashi.png",
-  "chapters": {}
+  "chapters": {
+    "124": {
+      "title": "Chidori's the Best!",
+      "volume": "11",
+      "last_updated": "1747528018",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/ne7bdb5rn45"
+      }
+    }
+  }
 }
