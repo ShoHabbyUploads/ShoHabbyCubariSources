@@ -4,5 +4,14 @@
   "artist": "Yukimori Nene",
   "author": "Yukimori Nene",
   "cover": "https://raw.githubusercontent.com/ShoHabbyUploads/ShoHabbyCubariSources/refs/heads/main/Covers/Kubo-san_wa_Boku_(Mobu)_wo_Yurusanai.png",
-  "chapters": {}
+  "chapters": {
+    "20.8": {
+      "title": "RINE Exchange Post-Story — Shiraishi Junta's Side",
+      "volume": "2",
+      "last_updated": "1747589270",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/9p4nwb6eb4n"
+      }
+    }
+  }
 }
