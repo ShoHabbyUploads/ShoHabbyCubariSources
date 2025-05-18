@@ -77,6 +77,78 @@
         "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/ej7mwoepbyd"
       }
     },
+    "17": {
+      "title": "Studying with Tsumiki-san",
+      "volume": "3",
+      "last_updated": "1747581007",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/pg73gvoxzyr"
+      }
+    },
+    "18": {
+      "title": "Tsumiki-san and Brush.",
+      "volume": "3",
+      "last_updated": "1747581050",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/lqye2blb3yd"
+      }
+    },
+    "19": {
+      "title": "Tsumiki-san and Umami-san.",
+      "volume": "3",
+      "last_updated": "1747581140",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/o24aqb6b37l"
+      }
+    },
+    "20": {
+      "title": "Tsumiki-san and the Big Cleanup",
+      "volume": "3",
+      "last_updated": "1747581187",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/m9yxrono3yq"
+      }
+    },
+    "21": {
+      "title": "Tsumiki-san and Kinami-san",
+      "volume": "3",
+      "last_updated": "1747581280",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/5xy2a6o697l"
+      }
+    },
+    "22": {
+      "title": "Tsumiki-san and Itsuki-san.",
+      "volume": "3",
+      "last_updated": "1747581490",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/9p4nwbz9m4n"
+      }
+    },
+    "23": {
+      "title": "Sugimi-san in Distress.",
+      "volume": "3",
+      "last_updated": "1747581530",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/md7owobnr4p"
+      }
+    },
+    "24": {
+      "title": "Summer with Tsumiki-san, Festival.",
+      "volume": "3",
+      "last_updated": "1747581651",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/bp45p9ogqy5"
+      }
+    },
+    "25": {
+      "title": "Fireworks with Tsumiki-san",
+      "volume": "3",
+      "last_updated": "1747581819",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/ljyqxokwn42"
+      }
+    },
     "7.5": {
       "title": "Volume Extras",
       "volume": "1",
@@ -91,6 +163,14 @@
       "last_updated": "1747580813",
       "groups": {
         "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/o24aqb6e37l"
+      }
+    },
+    "25.5": {
+      "title": "Volume Extras",
+      "volume": "3",
+      "last_updated": "1747581857",
+      "groups": {
+        "Emergency Tsumiki Committee": "/proxy/api/imgchest/chapter/qb4zeopgd4j"
       }
     }
   }
