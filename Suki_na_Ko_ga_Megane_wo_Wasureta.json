@@ -4,5 +4,14 @@
   "artist": "Fujichika Koume",
   "author": "Fujichika Koume",
   "cover": "https://raw.githubusercontent.com/ShoHabbyUploads/ShoHabbyCubariSources/refs/heads/main/Covers/Suki_na_Ko_ga_Megane_wo_Wasureta.png",
-  "chapters": {}
+  "chapters": {
+    "87.5": {
+      "title": "Volume Extras",
+      "volume": "9",
+      "last_updated": "1747588838",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/ljyqxo5nn42"
+      }
+    }
+  }
 }
