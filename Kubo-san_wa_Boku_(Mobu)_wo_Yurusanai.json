@@ -6,11 +6,83 @@
   "cover": "https://raw.githubusercontent.com/ShoHabbyUploads/ShoHabbyCubariSources/refs/heads/main/Covers/Kubo-san_wa_Boku_(Mobu)_wo_Yurusanai.png",
   "chapters": {
     "20.8": {
-      "title": "RINE Exchange Post-Story — Shiraishi Junta's Side",
+      "title": "Extra Episode: RINE Exchange Post-Story — Shiraishi Junta's Side",
       "volume": "2",
       "last_updated": "1747589270",
       "groups": {
         "Sho Habby Scans": "/proxy/api/imgchest/chapter/9p4nwb6eb4n"
+      }
+    },
+    "44.5": {
+      "title": "Extra Episode: Staring Contest",
+      "volume": "4",
+      "last_updated": "1747589393",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/n87wdojvx4x"
+      }
+    },
+    "56.5": {
+      "title": "Extra Episode: Enrollment Celebration",
+      "volume": "5",
+      "last_updated": "1747589517",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/"
+      }
+    },
+    "144.5": {
+      "title": "Extra Special Episode: In the Near Future",
+      "volume": "12",
+      "last_updated": "1747589590",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/ljyqxo6dd42"
+      }
+    },
+    "145.1": {
+      "title": "Extra Special Episode: Me and My Girlfriend",
+      "volume": "",
+      "last_updated": "1747589647",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/n87wdojrx4x"
+      }
+    },
+    "145.2": {
+      "title": "Extra Special Episode: Gaze",
+      "volume": "",
+      "last_updated": "1747589704",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/bp45p9ndny5"
+      }
+    },
+    "145.3": {
+      "title": "Extra Special Episode: Their Secret",
+      "volume": "",
+      "last_updated": "1747589742",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/ne7bdb3xm45"
+      }
+    },
+    "145.4": {
+      "title": "Extra Episode: Massage",
+      "volume": "",
+      "last_updated": "1747589779",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/5xy2a6g3z7l"
+      }
+    },
+    "145.5": {
+      "title": "Extra Episode: Pickiness",
+      "volume": "",
+      "last_updated": "1747589826",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/qb4zeorj54j"
+      }
+    },
+    "145.6": {
+      "title": "Extra Special Episode: Someone I've Always Liked",
+      "volume": "",
+      "last_updated": "1747589955",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/9p4nwb6xb4n"
       }
     }
   }
