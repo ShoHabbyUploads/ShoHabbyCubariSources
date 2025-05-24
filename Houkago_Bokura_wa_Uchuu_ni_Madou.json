@@ -4,5 +4,86 @@
   "artist": "Saitou Yuu",
   "author": "Saitou Yuu",
   "cover": "https://cdn.imgchest.com/files/4jdcvn6gqo4.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060121",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/pg73gemq3yr"
+      }
+    },
+    "2": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060164",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/lqye2x8rkyd"
+      }
+    },
+    "3": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060189",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/qb4zexgbv4j"
+      }
+    },
+    "4": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060213",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/bp45pgwrgy5"
+      }
+    },
+    "5": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060233",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/o24aq5wlw7l"
+      }
+    },
+    "6": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060264",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/agyvq53pz48"
+      }
+    },
+    "7": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060283",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/9249w68nayn"
+      }
+    },
+    "8": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060309",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/dl7pe3lpkyo"
+      }
+    },
+    "9": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060332",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/md7owm2p94p"
+      }
+    },
+    "10": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748060362",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/na7kmj9pm48"
+      }
+    }
+  }
 }
