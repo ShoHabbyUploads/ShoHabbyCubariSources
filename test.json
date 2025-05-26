@@ -1,0 +1,21 @@
+{
+  "title": "test",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1748245436",
+      "groups": {
+        "aaa": [
+          "a",
+          "b",
+          "c"
+        ]
+      }
+    }
+  }
+}
