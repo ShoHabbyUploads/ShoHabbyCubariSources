@@ -4,5 +4,14 @@
   "artist": "Yukimori Nene",
   "author": "Yukimori Nene",
   "cover": "https://cdn.imgchest.com/files/4jdcvj2vwa4.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Childhood Friends",
+      "volume": "",
+      "last_updated": "1751503309",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/dl7pd69vj7o"
+      }
+    }
+  }
 }
