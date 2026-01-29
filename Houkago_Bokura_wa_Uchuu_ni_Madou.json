@@ -318,7 +318,7 @@
       }
     },
     "15.5": {
-      "title": "Vol. 1 Extras",
+      "title": "Vol. 1 Extras + Inserts",
       "volume": "1",
       "last_updated": "1755115527",
       "groups": {
@@ -339,6 +339,14 @@
       "last_updated": "1767912926",
       "groups": {
         "Sho Habby Scans": "/proxy/api/imgchest/chapter/dl7pn22r3yo"
+      }
+    },
+    "30.5": {
+      "title": "Vol. 2 Extras + Inserts",
+      "volume": "2",
+      "last_updated": "1769716299",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/xny825mbdyb"
       }
     }
   }
