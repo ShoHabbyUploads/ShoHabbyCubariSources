@@ -4,5 +4,38 @@
   "artist": "Saitou Yuu",
   "author": "Saitou Yuu",
   "cover": "https://cdn.imgchest.com/files/1d0fe4c11435.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Explosion",
+      "volume": "",
+      "last_updated": "1772402669",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/5xy2glkrn7l"
+      }
+    },
+    "2": {
+      "title": "Real Name",
+      "volume": "",
+      "last_updated": "1772402690",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/5xy2glkrn7l"
+      }
+    },
+    "3": {
+      "title": "Greeting",
+      "volume": "",
+      "last_updated": "1772402714",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/m9yxqg6z37q"
+      }
+    },
+    "4": {
+      "title": "Moving Forward",
+      "volume": "",
+      "last_updated": "1772402731",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/na7knwj3q78"
+      }
+    }
+  }
 }
