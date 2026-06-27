@@ -4,5 +4,14 @@
   "artist": "wogura",
   "author": "Key",
   "cover": "https://cdn.imgchest.com/files/d2f5d27f6f08.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1782595334",
+      "groups": {
+        "Sho Habby Scans": "/proxy/api/imgchest/chapter/ne7b9gbpky5"
+      }
+    }
+  }
 }
